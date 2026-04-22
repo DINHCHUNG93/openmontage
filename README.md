@@ -1,3 +1,60 @@
+
+OpenMontage – “Nhà máy sản xuất video” chạy bằng AI agent (open-source)
+
+Trong khi đa số tool AI video chỉ dừng ở “prompt → 1 clip”, OpenMontage đi theo hướng hoàn toàn khác:
+👉 Biến AI coding assistant thành một team sản xuất video full-stack
+
+🚀 OpenMontage là gì?
+
+OpenMontage là hệ thống agentic video production mã nguồn mở, nơi bạn chỉ cần mô tả bằng ngôn ngữ tự nhiên:
+
+“Làm video 60s giải thích neural network”
+
+→ AI sẽ tự xử lý toàn bộ pipeline:
+
+* Research nội dung
+* Viết script
+* Lên scene
+* Tạo asset (ảnh/video)
+* Dựng video + nhạc + subtitle
+* Render output hoàn chỉnh  ￼
+
+⚡ Điểm nổi bật
+
+* 12 pipeline sản xuất video (explainer, cinematic, podcast, TikTok…)  ￼
+* 50+ tools: video, audio, TTS, subtitle, editing
+* 400–500+ agent skills (AI “biết làm nghề”)  ￼
+* Hỗ trợ real footage (không chỉ ảnh animate)
+* Có thể dùng 100% free/local (không cần API key)
+* Tự research web trước khi viết script
+* Tự kiểm tra chất lượng sau khi render (audio, frame, subtitle…)  ￼
+* Cost estimation + kiểm soát budget
+* Tương thích Claude Code, Cursor, Copilot, Codex
+
+🧠 Khác biệt lớn nhất
+
+Không phải tool generate video → mà là pipeline sản xuất video
+
+Thay vì:
+
+* Prompt → clip
+
+OpenMontage:
+
+* Idea → research → script → edit → kiểm duyệt → video
+
+👉 Giống cách một production team thật làm việc
+
+💡 Use case
+
+* Creator: sản xuất video hàng loạt
+* Marketer: làm video ads / social nhanh
+* Developer: build AI video pipeline
+* Agency: tự động hóa production
+
+#AIAgent #VideoAI #OpenSource #ContentAutomation
+
+
 <p align="center">
   <img src="assets/logo.png" alt="OpenMontage" width="200">
 </p>
